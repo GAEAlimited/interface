@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/static/css/main.38278927.chunk.css",
-    "main.js": "/static/js/main.b133f64b.chunk.js",
-    "main.js.map": "/static/js/main.b133f64b.chunk.js.map",
+    "main.css": "/static/css/main.aa300bdf.chunk.css",
+    "main.js": "/static/js/main.8461cae7.chunk.js",
+    "main.js.map": "/static/js/main.8461cae7.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.5fb6dedd.js",
     "runtime-main.js.map": "/static/js/runtime-main.5fb6dedd.js.map",
     "static/css/2.f4c56af9.chunk.css": "/static/css/2.f4c56af9.chunk.css",
@@ -12,7 +12,7 @@
     "static/js/3.81660bc9.chunk.js.map": "/static/js/3.81660bc9.chunk.js.map",
     "index.html": "/index.html",
     "static/css/2.f4c56af9.chunk.css.map": "/static/css/2.f4c56af9.chunk.css.map",
-    "static/css/main.38278927.chunk.css.map": "/static/css/main.38278927.chunk.css.map",
+    "static/css/main.aa300bdf.chunk.css.map": "/static/css/main.aa300bdf.chunk.css.map",
     "static/js/2.1419373d.chunk.js.LICENSE.txt": "/static/js/2.1419373d.chunk.js.LICENSE.txt",
     "static/media/AAVE-logo.0a64aa49.svg": "/static/media/AAVE-logo.0a64aa49.svg",
     "static/media/ARBITRUM-logo.5d22e2f1.png": "/static/media/ARBITRUM-logo.5d22e2f1.png",
@@ -45,7 +45,7 @@
     "static/js/runtime-main.5fb6dedd.js",
     "static/css/2.f4c56af9.chunk.css",
     "static/js/2.1419373d.chunk.js",
-    "static/css/main.38278927.chunk.css",
-    "static/js/main.b133f64b.chunk.js"
+    "static/css/main.aa300bdf.chunk.css",
+    "static/js/main.8461cae7.chunk.js"
   ]
 }
